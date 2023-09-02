@@ -1,0 +1,19 @@
+asynchronous javascript governs how we perform tasks which take time to ccomplete
+like asynchronous javascript is used to write code that starts now and finished  later
+javascript is a threaded language 
+statement 1 
+    |       takes time
+STATEMENT 2 ============ Database
+    |                       |
+statement 3                 |
+    |                       |     
+statement 4                 |
+    |                       |
+CALLBACK ====================
+
+
+        HTTP REQUESTS
+http requests to get data from anothher server
+we make these requests to API end point
+eg of an API endpoint
+http://www.musicapi.com/artist/henry
